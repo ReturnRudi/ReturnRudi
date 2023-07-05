@@ -24,7 +24,7 @@
 
 #### **프로젝트 경력**
  - 2023_03 DU벅이-동국대학교 길찾기 어플리케이션(캡스톤디자인, 팀장) [[Link]](https://github.com/ReturnRudi/Dubeogi)
- - 2023_03 내 손 안의 택시 미터기 Texi Cheaper [[Link]](https://github.com/ReturnRudi/Dubeogi)
+ - 2023_03 내 손 안의 택시 미터기 Texi Cheaper [[Link]](https://github.com/ReturnRudi/TexiCheaper)
 
 
 <!--#### **그 외 작업**-->
