@@ -36,7 +36,7 @@
 
 ##### **현재 진행 중**
  - 정보처리기사 실기 준비
- - 기업사회맞춤형캡스톤디자인 - YOTO(You Only Talk Once) 프로젝트 팀장
+ - 기업사회맞춤형캡스톤디자인(SKT) - YOTO(You Only Talk Once) 프로젝트 팀장
 
 ##### **Contact**
  - qnvr31p@naver.com<br/>
