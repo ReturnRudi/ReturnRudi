@@ -32,7 +32,7 @@
 
 
 #### **자격증**
- - TOEIC Speaking Test Intermediate High
+ - TOEIC Speaking Test IH
 
 
 ##### **현재 진행 중**
