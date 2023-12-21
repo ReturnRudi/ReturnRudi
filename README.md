@@ -23,8 +23,9 @@
    
 
 #### **프로젝트**
- - 2023_03 DU벅이-동국대학교 길찾기 어플리케이션(캡스톤디자인, 팀장) [[Link]](https://github.com/ReturnRudi/Dubeogi)
+ - 2023_03 DU벅이 - 동국대학교 길찾기 어플리케이션(캡스톤디자인, 팀장) [[Link]](https://github.com/ReturnRudi/Dubeogi)
  - 2023_03 내 손 안의 택시 미터기 Texi Cheaper [[Link]](https://github.com/ReturnRudi/TexiCheaper)
+ - 2023_09 YOTO - 전맹 시각장애인 어플리케이션(기업사회맞춤형캡스톤디자인[SKT] 교과 우수상, 팀장) [[Link]](https://github.com/ReturnRudi/Yoto)
 
 
 <!--#### **그 외 작업**-->
@@ -36,7 +37,6 @@
 
 ##### **현재 진행 중**
  - 정보처리기사 실기 준비
- - 기업사회맞춤형캡스톤디자인(SKT) - YOTO(You Only Talk Once) 프로젝트 팀장
 
 ##### **Contact**
  - qnvr31p@naver.com<br/>
