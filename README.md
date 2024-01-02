@@ -30,6 +30,9 @@
 
 <!--#### **그 외 작업**-->
 
+#### **블로그**
+- [[Link]](https://returnrudi.github.io/)
+
 
 #### **자격증**
  - TOEIC Speaking Test IH
